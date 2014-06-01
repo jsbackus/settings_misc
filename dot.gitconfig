@@ -7,3 +7,5 @@
 	tool = tkdiff
 [difftool]
 	prompt = false
+[color]
+	ui = auto
